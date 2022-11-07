@@ -1,0 +1,9 @@
+1)Don't call inside loops
+
+2)Don;t call inside conditions
+
+3)Don't call inside nested function
+
+4)always use hooks at the top of the function
+
+5) Only call hooks from react function
